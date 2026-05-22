@@ -1,0 +1,10 @@
+{
+  "name": "health",
+  "private": true,
+  "scripts": {
+    "dev": "live-server --port=5500 --open=index.html --watch=.,assets"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
