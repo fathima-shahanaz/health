@@ -1199,7 +1199,7 @@ body.search-visible {
 
 /* 5. Breadcrumb */
 .breadcrumb-bg {
-  background-image: url(../img/bg/video_bg.jpg);
+  background-image: url(../img/banner/h3_banner_bg.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -6015,7 +6015,7 @@ body.search-visible {
 }
 .menu-area-two .logo img {
   max-width: unset;
-  max-height: 100px;
+  max-height: 90px;
 }
 .menu-area-two .menu-nav {
   align-items: normal;
